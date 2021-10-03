@@ -1,0 +1,21 @@
+.back_ground
+{
+background-image: url(images/airplane.jpg);    
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+height:120vh;     
+}
+.logo
+{
+height: 50px;    
+width: 100px;   
+}
+.p
+{
+background-image: url(images/airplane.jpg);    
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+height:120vh;     
+}
